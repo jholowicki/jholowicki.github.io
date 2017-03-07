@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio on Joy Holowicki</title>
+    <link>http://joyholowicki.me/tags/bio/index.xml</link>
+    <description>Recent content in Bio on Joy Holowicki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://joyholowicki.me/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://joyholowicki.me/aboutjoy/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/aboutjoy/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a full stack web developer. My current interests include the MERN stack, all variations of Javascript, and templating engines used in conjunction with static site generators.&lt;/p&gt;
+
+&lt;p&gt;I was educated at Northwestern University&amp;rsquo;s Coding Bootcamp and am self-taught on a number of technologies stemming from problem-solving in former technical roles.&lt;/p&gt;
+
+&lt;p&gt;For more info about me, download a PDF of my CV here: &lt;a href=&#34;http://www.joyholowicki.me/pdf/&#34;&gt;http://www.joyholowicki.me/pdf/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joy Holowicki</title>
+    <link>http://joyholowicki.me/index.xml</link>
+    <description>Recent content on Joy Holowicki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://joyholowicki.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://joyholowicki.me/aboutjoy/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/aboutjoy/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a full stack web developer. My current interests include the MERN stack, all variations of Javascript, and templating engines used in conjunction with static site generators.&lt;/p&gt;
+
+&lt;p&gt;I was educated at Northwestern University&amp;rsquo;s Coding Bootcamp and am self-taught on a number of technologies stemming from problem-solving in former technical roles.&lt;/p&gt;
+
+&lt;p&gt;For more info about me, download a PDF of my CV here: &lt;a href=&#34;http://www.joyholowicki.me/pdf/&#34;&gt;http://www.joyholowicki.me/pdf/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>http://joyholowicki.me/post/welcome/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/post/welcome/</guid>
+      <description>&lt;p&gt;===============================================================&lt;/p&gt;
+
+&lt;p&gt;Hello, glad you decided to check out my portfolio website. As you may have noticed, I had in mind material design principles when I built it and used Hugo to generate the static files -added some JS for good measure, of course.&lt;/p&gt;
+
+&lt;p&gt;(More below.)&lt;/p&gt;
+
+&lt;p&gt;===============================================================&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This website is a work in progress and may need updating from time to time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You&amp;rsquo;ll find my applications and websites &lt;a href=&#34;http://joyholowicki.me/project/&#34;&gt;page&lt;/a&gt; generally reflects the same content as &lt;a href=&#34;https://github.com/jholowicki&#34;&gt;my github&lt;/a&gt; in card form.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Navigate to the bottom of each page to find my contact info. Feel free to get in touch with me about a job or any questions/comments you have about my work.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Check out my &amp;ldquo;About Me&amp;rdquo; &lt;a href=&#34;http://joyholowicki.me/about/&#34;&gt;page&lt;/a&gt;, or download a PDF of my CV directly &lt;a href=&#34;http://joyholowicki.me/pdf/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hope to chat with you soon. -Joy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breakaway Social Center Website</title>
+      <link>http://joyholowicki.me/project/breakawaychi/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/project/breakawaychi/</guid>
+      <description>
+
+&lt;h1 id=&#34;breakaway-social-center&#34;&gt;Breakaway Social Center&lt;/h1&gt;
+
+&lt;p&gt;Breakaway is a social center on Chicago&amp;rsquo;s southwest side. I made this website in collaboration with members, with an emphasis on displaying the space and featuring events. The final site ended up being hosted on Wordpress, as that was the platform members were most familiar with. This is the website in it&amp;rsquo;s Jekyll incarnation, previously a content manager called Instant.cm was tried.&lt;/p&gt;
+
+&lt;p&gt;##Technologies Used&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Foundation CSS &amp;amp; JS Framework&lt;/li&gt;
+&lt;li&gt;Jekyll -static site generator&lt;/li&gt;
+&lt;li&gt;HTML5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Lessons Learned&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clients prefer familiar platforms&lt;/li&gt;
+&lt;li&gt;Carousel functions can slow pages&lt;/li&gt;
+&lt;li&gt;First use of static site generation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Sun (SPA)</title>
+      <link>http://joyholowicki.me/project/dynamicsun/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/project/dynamicsun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

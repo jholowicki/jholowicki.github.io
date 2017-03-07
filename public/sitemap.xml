@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://joyholowicki.me/aboutjoy/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/post/welcome/</loc>
+    <lastmod>2017-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/project/breakawaychi/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/project/dynamicsun/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/categories/about/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/tags/bio/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/categories/bio/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/tags/meta/</loc>
+    <lastmod>2017-03-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/categories/meta/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/categories/post/</loc>
+    <lastmod>2017-03-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/post/</loc>
+    <lastmod>2017-03-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/tags/project/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/categories/project/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/project/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joyholowicki.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

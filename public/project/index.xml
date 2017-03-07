@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Joy Holowicki</title>
+    <link>http://joyholowicki.me/project/index.xml</link>
+    <description>Recent content in Projects on Joy Holowicki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://joyholowicki.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Breakaway Social Center Website</title>
+      <link>http://joyholowicki.me/project/breakawaychi/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/project/breakawaychi/</guid>
+      <description>
+
+&lt;h1 id=&#34;breakaway-social-center&#34;&gt;Breakaway Social Center&lt;/h1&gt;
+
+&lt;p&gt;Breakaway is a social center on Chicago&amp;rsquo;s southwest side. I made this website in collaboration with members, with an emphasis on displaying the space and featuring events. The final site ended up being hosted on Wordpress, as that was the platform members were most familiar with. This is the website in it&amp;rsquo;s Jekyll incarnation, previously a content manager called Instant.cm was tried.&lt;/p&gt;
+
+&lt;p&gt;##Technologies Used&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Foundation CSS &amp;amp; JS Framework&lt;/li&gt;
+&lt;li&gt;Jekyll -static site generator&lt;/li&gt;
+&lt;li&gt;HTML5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Lessons Learned&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clients prefer familiar platforms&lt;/li&gt;
+&lt;li&gt;Carousel functions can slow pages&lt;/li&gt;
+&lt;li&gt;First use of static site generation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Sun (SPA)</title>
+      <link>http://joyholowicki.me/project/dynamicsun/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://joyholowicki.me/project/dynamicsun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
