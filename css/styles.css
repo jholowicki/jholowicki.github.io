@@ -1,5 +1,5 @@
 body::before {
-    /*background-image: url('{{ .Site.Params.background }}');*/
+    background-image: url('{{ .Site.Params.background }}');
     background-size: cover;
     background-attachment: fixed;
     content: '';
